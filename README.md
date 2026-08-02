@@ -16,11 +16,13 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/anwesha-1125/DSA_python/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/anwesha-1125/DSA_python/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/anwesha-1125/DSA_python/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/anwesha-1125/DSA_python/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/anwesha-1125/DSA_python/tree/master/0344-reverse-string) |
 ## Math
 |  |
