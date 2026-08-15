@@ -37,10 +37,12 @@
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/anwesha-1125/DSA_python/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/anwesha-1125/DSA_python/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/anwesha-1125/DSA_python/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/anwesha-1125/DSA_python/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -58,6 +60,7 @@
 | [0110-balanced-binary-tree](https://github.com/anwesha-1125/DSA_python/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anwesha-1125/DSA_python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/anwesha-1125/DSA_python/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/anwesha-1125/DSA_python/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anwesha-1125/DSA_python/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anwesha-1125/DSA_python/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/anwesha-1125/DSA_python/tree/master/0662-maximum-width-of-binary-tree) |
@@ -98,6 +101,7 @@
 | [0110-balanced-binary-tree](https://github.com/anwesha-1125/DSA_python/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anwesha-1125/DSA_python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/anwesha-1125/DSA_python/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/anwesha-1125/DSA_python/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anwesha-1125/DSA_python/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anwesha-1125/DSA_python/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/anwesha-1125/DSA_python/tree/master/0662-maximum-width-of-binary-tree) |
