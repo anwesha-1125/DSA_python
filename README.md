@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/anwesha-1125/DSA_python/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anwesha-1125/DSA_python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anwesha-1125/DSA_python/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/anwesha-1125/DSA_python/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anwesha-1125/DSA_python/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/anwesha-1125/DSA_python/tree/master/0268-missing-number) |
 ## Hash Table
@@ -16,6 +17,7 @@
 | [0001-two-sum](https://github.com/anwesha-1125/DSA_python/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anwesha-1125/DSA_python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anwesha-1125/DSA_python/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/anwesha-1125/DSA_python/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/anwesha-1125/DSA_python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anwesha-1125/DSA_python/tree/master/0268-missing-number) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anwesha-1125/DSA_python/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -51,6 +53,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anwesha-1125/DSA_python/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/anwesha-1125/DSA_python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anwesha-1125/DSA_python/tree/master/0268-missing-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anwesha-1125/DSA_python/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -143,6 +146,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anwesha-1125/DSA_python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anwesha-1125/DSA_python/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/anwesha-1125/DSA_python/tree/master/0169-majority-element) |
 ## Stack
 |  |
 | ------- |
@@ -152,4 +156,12 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anwesha-1125/DSA_python/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anwesha-1125/DSA_python/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anwesha-1125/DSA_python/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
