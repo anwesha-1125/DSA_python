@@ -12,6 +12,7 @@
 | [0169-majority-element](https://github.com/anwesha-1125/DSA_python/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anwesha-1125/DSA_python/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/anwesha-1125/DSA_python/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/anwesha-1125/DSA_python/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0088-merge-sorted-array](https://github.com/anwesha-1125/DSA_python/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anwesha-1125/DSA_python/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/anwesha-1125/DSA_python/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/anwesha-1125/DSA_python/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/anwesha-1125/DSA_python/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -47,11 +49,13 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/anwesha-1125/DSA_python/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/anwesha-1125/DSA_python/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/anwesha-1125/DSA_python/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/anwesha-1125/DSA_python/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/anwesha-1125/DSA_python/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/anwesha-1125/DSA_python/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -167,4 +171,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anwesha-1125/DSA_python/tree/master/0169-majority-element) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/anwesha-1125/DSA_python/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/anwesha-1125/DSA_python/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
