@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anwesha-1125/DSA_python/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/anwesha-1125/DSA_python/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/anwesha-1125/DSA_python/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anwesha-1125/DSA_python/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/anwesha-1125/DSA_python/tree/master/0141-linked-list-cycle) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anwesha-1125/DSA_python/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/anwesha-1125/DSA_python/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anwesha-1125/DSA_python/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/anwesha-1125/DSA_python/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anwesha-1125/DSA_python/tree/master/0160-intersection-of-two-linked-lists) |
