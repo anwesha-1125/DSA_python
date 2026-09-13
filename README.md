@@ -163,6 +163,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anwesha-1125/DSA_python/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/anwesha-1125/DSA_python/tree/master/0237-delete-node-in-a-linked-list) |
 ## Counting
 |  |
 | ------- |
