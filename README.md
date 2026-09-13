@@ -193,4 +193,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/anwesha-1125/DSA_python/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/anwesha-1125/DSA_python/tree/master/0287-find-the-duplicate-number) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/anwesha-1125/DSA_python/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
