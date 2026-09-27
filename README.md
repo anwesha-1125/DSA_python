@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anwesha-1125/DSA_python/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/anwesha-1125/DSA_python/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anwesha-1125/DSA_python/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/anwesha-1125/DSA_python/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anwesha-1125/DSA_python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/anwesha-1125/DSA_python/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/anwesha-1125/DSA_python/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/anwesha-1125/DSA_python/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/anwesha-1125/DSA_python/tree/master/0268-missing-number) |
 ## Binary Search
@@ -248,6 +250,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/anwesha-1125/DSA_python/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anwesha-1125/DSA_python/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
