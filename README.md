@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/anwesha-1125/DSA_python/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anwesha-1125/DSA_python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anwesha-1125/DSA_python/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0118-pascals-triangle](https://github.com/anwesha-1125/DSA_python/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/anwesha-1125/DSA_python/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anwesha-1125/DSA_python/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/anwesha-1125/DSA_python/tree/master/0268-missing-number) |
@@ -160,6 +161,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/anwesha-1125/DSA_python/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anwesha-1125/DSA_python/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Lifting
 |  |
