@@ -45,6 +45,7 @@
 | [0125-valid-palindrome](https://github.com/anwesha-1125/DSA_python/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/anwesha-1125/DSA_python/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/anwesha-1125/DSA_python/tree/master/0344-reverse-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anwesha-1125/DSA_python/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -180,6 +181,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anwesha-1125/DSA_python/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anwesha-1125/DSA_python/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anwesha-1125/DSA_python/tree/master/0145-binary-tree-postorder-traversal) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anwesha-1125/DSA_python/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -234,4 +236,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/anwesha-1125/DSA_python/tree/master/0547-number-of-provinces) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anwesha-1125/DSA_python/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
