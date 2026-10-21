@@ -10,9 +10,10 @@ class Solution:
         def getheight(root):
             if root is None:
                 return 0
-            lefth = getheight(root.left)
-            righth = getheight(root.right)
-            self.ans = max(self.ans, lefth + righth)
-            return max(lefth, righth) + 1
+            left = getheight(root.left)
+            right = getheight(root.right)
+            self.ans = max(self.ans,left+right)
+            return max(left,right)+1
         getheight(root)
         return self.ans
+        
