@@ -5,19 +5,15 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def maxPathSum(self, root: Optional[TreeNode]) -> int:
-        self.answer = float('-inf') # nodes can be neg
-
+    def maxPathSum(self, root: TreeNode | None) -> int:
+        self.ans = float('-inf')
         def getheight(root):
             if root is None:
                 return 0
-
-            left = max(0, getheight(root.left))
-            right = max(0, getheight(root.right))
-            self.answer = max(self.answer, left + right + root.val)
-    
-            return max(left, right) + root.val
-
+            left = max(0,getheight(root.left))
+            right = max(0,getheight(root.right))
+            self.ans = max(self.ans , left + right +root.val)
+            return max(left,right) + root.val
         getheight(root)
-        return self.answer
+        return self.ans
         
