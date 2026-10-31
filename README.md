@@ -20,6 +20,7 @@
 | [0268-missing-number](https://github.com/anwesha-1125/DSA_python/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anwesha-1125/DSA_python/tree/master/0287-find-the-duplicate-number) |
 | [0733-flood-fill](https://github.com/anwesha-1125/DSA_python/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/anwesha-1125/DSA_python/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/anwesha-1125/DSA_python/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anwesha-1125/DSA_python/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anwesha-1125/DSA_python/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/anwesha-1125/DSA_python/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -267,6 +269,7 @@
 | [0073-set-matrix-zeroes](https://github.com/anwesha-1125/DSA_python/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/anwesha-1125/DSA_python/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/anwesha-1125/DSA_python/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/anwesha-1125/DSA_python/tree/master/0994-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
