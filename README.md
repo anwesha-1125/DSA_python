@@ -202,6 +202,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/anwesha-1125/DSA_python/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anwesha-1125/DSA_python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anwesha-1125/DSA_python/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/anwesha-1125/DSA_python/tree/master/0169-majority-element) |
@@ -218,6 +219,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/anwesha-1125/DSA_python/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anwesha-1125/DSA_python/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/anwesha-1125/DSA_python/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/anwesha-1125/DSA_python/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anwesha-1125/DSA_python/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/anwesha-1125/DSA_python/tree/master/0141-linked-list-cycle) |
@@ -295,4 +297,16 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anwesha-1125/DSA_python/tree/master/0005-longest-palindromic-substring) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/anwesha-1125/DSA_python/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/anwesha-1125/DSA_python/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/anwesha-1125/DSA_python/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
