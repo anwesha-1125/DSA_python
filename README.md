@@ -59,6 +59,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anwesha-1125/DSA_python/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/anwesha-1125/DSA_python/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/anwesha-1125/DSA_python/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/anwesha-1125/DSA_python/tree/master/0189-rotate-array) |
@@ -208,6 +209,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anwesha-1125/DSA_python/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anwesha-1125/DSA_python/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/anwesha-1125/DSA_python/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anwesha-1125/DSA_python/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -278,4 +280,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anwesha-1125/DSA_python/tree/master/0054-spiral-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/anwesha-1125/DSA_python/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
