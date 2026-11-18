@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anwesha-1125/DSA_python/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/anwesha-1125/DSA_python/tree/master/0006-zigzag-conversion) |
 | [0125-valid-palindrome](https://github.com/anwesha-1125/DSA_python/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/anwesha-1125/DSA_python/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/anwesha-1125/DSA_python/tree/master/0344-reverse-string) |
