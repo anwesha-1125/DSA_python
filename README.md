@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anwesha-1125/DSA_python/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/anwesha-1125/DSA_python/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anwesha-1125/DSA_python/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/anwesha-1125/DSA_python/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anwesha-1125/DSA_python/tree/master/0054-spiral-matrix) |
@@ -28,6 +29,7 @@
 | [0001-two-sum](https://github.com/anwesha-1125/DSA_python/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/anwesha-1125/DSA_python/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anwesha-1125/DSA_python/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/anwesha-1125/DSA_python/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/anwesha-1125/DSA_python/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anwesha-1125/DSA_python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anwesha-1125/DSA_python/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -285,6 +287,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/anwesha-1125/DSA_python/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/anwesha-1125/DSA_python/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anwesha-1125/DSA_python/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anwesha-1125/DSA_python/tree/master/0073-set-matrix-zeroes) |
@@ -319,9 +322,18 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anwesha-1125/DSA_python/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/anwesha-1125/DSA_python/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anwesha-1125/DSA_python/tree/master/0039-combination-sum) |
 ## Sliding Window
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anwesha-1125/DSA_python/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/anwesha-1125/DSA_python/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/anwesha-1125/DSA_python/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
