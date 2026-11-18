@@ -39,6 +39,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anwesha-1125/DSA_python/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anwesha-1125/DSA_python/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/anwesha-1125/DSA_python/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/anwesha-1125/DSA_python/tree/master/0088-merge-sorted-array) |
@@ -52,6 +53,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anwesha-1125/DSA_python/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/anwesha-1125/DSA_python/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/anwesha-1125/DSA_python/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/anwesha-1125/DSA_python/tree/master/0344-reverse-string) |
@@ -181,6 +183,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anwesha-1125/DSA_python/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/anwesha-1125/DSA_python/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/anwesha-1125/DSA_python/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anwesha-1125/DSA_python/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -284,4 +287,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anwesha-1125/DSA_python/tree/master/0002-add-two-numbers) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/anwesha-1125/DSA_python/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
