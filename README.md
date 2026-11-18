@@ -57,6 +57,7 @@
 | [0005-longest-palindromic-substring](https://github.com/anwesha-1125/DSA_python/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/anwesha-1125/DSA_python/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/anwesha-1125/DSA_python/tree/master/0012-integer-to-roman) |
+| [0022-generate-parentheses](https://github.com/anwesha-1125/DSA_python/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/anwesha-1125/DSA_python/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/anwesha-1125/DSA_python/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/anwesha-1125/DSA_python/tree/master/0344-reverse-string) |
@@ -188,6 +189,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anwesha-1125/DSA_python/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/anwesha-1125/DSA_python/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/anwesha-1125/DSA_python/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/anwesha-1125/DSA_python/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anwesha-1125/DSA_python/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -275,6 +277,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anwesha-1125/DSA_python/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anwesha-1125/DSA_python/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Matrix
 |  |
@@ -309,4 +312,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anwesha-1125/DSA_python/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/anwesha-1125/DSA_python/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
