@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/anwesha-1125/DSA_python/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/anwesha-1125/DSA_python/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anwesha-1125/DSA_python/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/anwesha-1125/DSA_python/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/anwesha-1125/DSA_python/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anwesha-1125/DSA_python/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anwesha-1125/DSA_python/tree/master/0073-set-matrix-zeroes) |
@@ -46,6 +47,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anwesha-1125/DSA_python/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anwesha-1125/DSA_python/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/anwesha-1125/DSA_python/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/anwesha-1125/DSA_python/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/anwesha-1125/DSA_python/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anwesha-1125/DSA_python/tree/master/0125-valid-palindrome) |
@@ -195,6 +197,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anwesha-1125/DSA_python/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/anwesha-1125/DSA_python/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/anwesha-1125/DSA_python/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/anwesha-1125/DSA_python/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/anwesha-1125/DSA_python/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anwesha-1125/DSA_python/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -216,6 +219,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anwesha-1125/DSA_python/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/anwesha-1125/DSA_python/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anwesha-1125/DSA_python/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anwesha-1125/DSA_python/tree/master/0144-binary-tree-preorder-traversal) |
@@ -336,4 +340,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/anwesha-1125/DSA_python/tree/master/0037-sudoku-solver) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/anwesha-1125/DSA_python/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
